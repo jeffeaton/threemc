@@ -57,5 +57,5 @@ LinkingTo:
     TMB, 
     RcppEigen
 Remotes:
-    paddy7wb/naomi
+    paddy7wb/naomi@local_eppasm
 Config/testthat/edition: 3
